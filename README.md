@@ -60,11 +60,4 @@ The user inputs the URL of a League of Legends gameplay video.
 ## Conclusion
 This project simplifies the process of analyzing League of Legends gameplay, empowering players with actionable insights directly from their chosen videos. By combining YouTube transcript data with the analytical capabilities of GPT-4, this tool represents a significant step toward enhancing strategic understanding and skill development in the game.
 
----
-
-## How to Use
-1. Open the Gradio interface.
-2. Input the YouTube URL of a League of Legends gameplay video.
-3. Click submit.
-4. Receive your tailored game analysis and improvement suggestions within seconds.
 
